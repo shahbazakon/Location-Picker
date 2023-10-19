@@ -1,16 +1,11 @@
-# the_one_tech
+# The One Technology
 
 A new Flutter project.
 
-## Getting Started
+##  Location picker
 
-This project is a starting point for a Flutter application.
+| Application Preview | FEATURES |
+|-------------------- |------------- |
+| <img src="https://github.com/ShoshinTech22/Recruitment-1036-Mohd-Shahbaz/assets/57652434/aa3bf35f-2b12-4b8d-a421-4705382c82b8" width="500" text-align = "center" >  | **✅ A visually distinct tab bar is placed at the top of the page.** <br><br>**✅ Each tab represents a specific type of location.** <br><br>**✅ Users can switch between tabs to view locations of different types.** <br><br>**✅ Locations are dynamically displayed based on the selected typefrom the tab bar.** <br><br>**✅ Each location entry includes relevant information such as name, address, and additional details.** <br><br>**✅ The component includes a search bar or input field that allows users to search for locations by name.** <br><br>**✅ Users can enter the name of a specific location they are interested in, and the component will filter and display matching resultsaccordingly.** <br><br>**✅ When the API is called, the retrieved location data is stored in a local database.** <br><br>**✅ Users can switch between tabs to view locations of different types.** <br><br>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
